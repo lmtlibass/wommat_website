@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Roboto:ital,wght@1,300&display=swap');
+
+.App {
+  text-align: center;
+ 
+}
+
+*{
+  overflow-y: visible;
+  font-family: 'Inter', sans-serif !important;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+.header {
+  margin-top: 0 !important;
+}
+
+
+h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #022179;
+  text-align: center;
+  margin: 5% auto;
+  font-family: 'Inter', sans-serif !important;
+ 
+
+}
+
+h2 {
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+  color: #A42593 !important;
+  text-align: left !important;
+  line-height: 1.8 !important;
+  font-family: 'Inter', sans-serif !important;
+
+}
+
+
+  @media screen and (max-width: 768px) {
+
+    * {
+      box-sizing: border-box;
+    }
+  }
+

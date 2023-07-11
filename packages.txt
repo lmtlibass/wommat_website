@@ -1,0 +1,2 @@
+npm install react-scroll
+npm install aos --save

@@ -1,0 +1,78 @@
+.ourService {
+  background-color: #ffffff;
+  padding: 50px 0;
+  clip-path: polygon(0 4%, 100% 0, 100% 100%, 0% 100%);
+  margin-top: -38px;
+}
+.containerServices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.card {
+  background-color: #ffff;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  border-radius: 8px;
+  padding: 20px;
+  width: 45%;
+  text-align: justify;
+}
+.card:hover {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.cardContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.imageCarte {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+
+.cardTitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+
+.imageCarte .img img{
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.card___btn {
+  background: transparent;
+  border: none;
+  width: 100px;
+  color: #A42593;
+  font-weight: bolder;
+  cursor: pointer;
+  text-align: left;
+}
+
+.card___btn:hover {
+  color: #022179;
+  font-size: 13px;
+}
+
+.cardText {
+  font-size: 12px;
+  line-height: 1.5;
+  color: #022179;
+  margin-left: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: 100%;
+  }
+}
