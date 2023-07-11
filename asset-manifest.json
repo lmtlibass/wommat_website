@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/wommat_website/static/css/main.9800e83f.css",
+    "main.js": "/wommat_website/static/js/main.8ca411b9.js",
+    "static/js/787.008caf82.chunk.js": "/wommat_website/static/js/787.008caf82.chunk.js",
+    "static/media/map.png": "/wommat_website/static/media/map.3b94a0775dd173f61de5.png",
+    "static/media/mail.png": "/wommat_website/static/media/mail.5ddf2d3e81281a911042.png",
+    "static/media/phone.png": "/wommat_website/static/media/phone.67b1a83ef71719e4faa9.png",
+    "static/media/bella.png": "/wommat_website/static/media/bella.c855c843996d3070bc91.png",
+    "static/media/libscode.png": "/wommat_website/static/media/libscode.1271dbda4e7293f3aae3.png",
+    "static/media/apropos.png": "/wommat_website/static/media/apropos.467ca26cf8523f52c701.png",
+    "static/media/heros_img.png": "/wommat_website/static/media/heros_img.4ce6ad9d3f0e129226ef.png",
+    "static/media/icone3.png": "/wommat_website/static/media/icone3.01cb2f6875e81a409d63.png",
+    "static/media/icone1.png": "/wommat_website/static/media/icone1.7c4229fb13ab0e47fcaa.png",
+    "static/media/icone4.png": "/wommat_website/static/media/icone4.a63ff216ceb88a129778.png",
+    "static/media/icone2.png": "/wommat_website/static/media/icone2.94e48b50b48f2a7d4e79.png",
+    "static/media/logo_wommate.png": "/wommat_website/static/media/logo_wommate.0b98db440a35946d03e0.png",
+    "static/media/oumar.jpg": "/wommat_website/static/media/oumar.e27be3a3a328b50b64b1.jpg",
+    "static/media/logo-minamemontre.jpg": "/wommat_website/static/media/logo-minamemontre.29836d9a253ded2e10b1.jpg",
+    "static/media/active-solution-logo.png": "/wommat_website/static/media/active-solution-logo.6c7e6a7099bc8d11f875.png",
+    "static/media/logo-bella.jpg": "/wommat_website/static/media/logo-bella.61407894279e0265271d.jpg",
+    "index.html": "/wommat_website/index.html",
+    "main.9800e83f.css.map": "/wommat_website/static/css/main.9800e83f.css.map",
+    "main.8ca411b9.js.map": "/wommat_website/static/js/main.8ca411b9.js.map",
+    "787.008caf82.chunk.js.map": "/wommat_website/static/js/787.008caf82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9800e83f.css",
+    "static/js/main.8ca411b9.js"
+  ]
+}
